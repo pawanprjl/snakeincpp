@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1520840394 source:e:\riku's materials\rik c\finalsnake\main.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<cstdlib>
+	<fstream>
+	<Print.h>
+	<Position.h>
+
+1520840182 e:\riku's materials\rik c\finalsnake\include\print.h
+
+1520840192 source:e:\riku's materials\rik c\finalsnake\src\print.cpp
+	"Print.h"
+	<iostream>
+
+1520840501 e:\riku's materials\rik c\finalsnake\include\position.h
+
+1520840672 source:e:\riku's materials\rik c\finalsnake\src\position.cpp
+	"Position.h"
+	<iostream>
+
